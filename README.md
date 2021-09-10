@@ -1,2 +1,2 @@
 # Year-9-Coding
-A place to store codes/assignments 
+A place to store code/assignments 
